@@ -3,6 +3,8 @@
 ## Overview
 This project analyzes Atlas Lab's employee data using Power BI to uncover insights on workforce demographics, attrition, and performance. It focuses on employee headcount, retention patterns, and satisfaction metrics to support HR decisions, with interactive dashboards visualizing trends from 2012 to 2022.
 
+The complete Power BI dashboard is uploaded in this Repository.
+
 ## Dataset
 The CSV files are attached in this repository.
 
